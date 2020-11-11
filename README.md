@@ -1,5 +1,5 @@
-# tdd-string-example
-A simple example of TDD in Java
+# tdd-jupiter-example
+A few examples of TDD in Java with JUnit 5 (Jupiter)
 
 An example of Chapter _TDD_ of the book
 
