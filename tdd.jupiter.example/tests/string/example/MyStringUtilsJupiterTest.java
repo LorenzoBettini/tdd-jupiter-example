@@ -15,7 +15,7 @@ class MyStringUtilsJupiterTest {
 		myStringUtils = new MyStringUtils();
 	}
 
-	@ParameterizedTest
+	@ParameterizedTest(name = "{index}: ''{0}'' => ''{1}''")
 	@CsvSource({
 		",",
 		"'', ''",
